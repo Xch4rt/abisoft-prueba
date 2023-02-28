@@ -10,4 +10,4 @@
 
 ## DB Diagram 
 
-![Tabla Plates](../plates_db.png)
+![Tabla Plates](plates_db.png)
