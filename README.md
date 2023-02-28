@@ -10,4 +10,4 @@
 
 ## DB Diagram 
 
-<iframe width="560" height="315" src='https://dbdiagram.io/embed/63fd2bc2296d97641d8425cf'> </iframe>
+![Tabla Plates](../plates_db.png)
